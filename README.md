@@ -35,7 +35,7 @@ Built using **React + Vite** for the frontend, **Node.js + Express** for the bac
 ---
 
 ## 🗂 Project Structure
-
+```
 sweet-shop/
 ├── backend/
 │ ├── src/
@@ -62,7 +62,7 @@ sweet-shop/
 │ └── index.html
 │
 └── README.md
-
+```
 ```yaml
 
 ---
